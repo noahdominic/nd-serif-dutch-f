@@ -2,7 +2,7 @@ StartChar: i
 Encoding: 105 105 3
 Width: 262
 VWidth: 2048
-Flags: HWO
+Flags: HW
 LayerCount: 3
 Back
 SplineSet
@@ -160,13 +160,13 @@ SplineSet
  92 358.704095572 87.8096197855 361.135464493 46 374 c 1
  46 389 l 1
  46 389 163 436 164 436 c 1
- 164 33 l 1
- 233 33 l 1
+ 164 38 l 5
+ 233 38 l 5
  233 -3 l 17
  211 -1 162 0 129 0 c 0
  101 0 51 -1 23 -3 c 1
- 23 33 l 1
- 92 33 l 1
+ 23 38 l 5
+ 92 38 l 5
  92 307 l 2
 EndSplineSet
 EndChar

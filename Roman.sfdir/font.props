@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1761741118
-ModificationTime: 1761744119
+ModificationTime: 1761744249
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -50,8 +50,8 @@ WinInfo: 25 25 10
 BeginPrivate: 0
 EndPrivate
 Grid
--1000 33.0000101725 m 0
- 2000 33.0000101725 l 1024
+-1000 38 m 0
+ 2000 38 l 1024
 -1000 420 m 0
  2000 420 l 1024
   Named: "x-h"
