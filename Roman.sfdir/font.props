@@ -12,10 +12,11 @@ UnderlineWidth: 50
 Ascent: 800
 Descent: 200
 InvalidEm: 0
-LayerCount: 3
+LayerCount: 4
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 Layer: 2 0 "Back 2" 1
+Layer: 3 0 "Back 3" 1
 XUID: [1021 658 -15700030 7068198]
 StyleMap: 0x0000
 FSType: 0
@@ -23,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1761741118
-ModificationTime: 1761823990
+ModificationTime: 1761824638
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,6 +38,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033

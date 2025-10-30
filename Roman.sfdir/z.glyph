@@ -2,7 +2,7 @@ StartChar: z
 Encoding: 122 122 13
 Width: 434
 Flags: HW
-LayerCount: 3
+LayerCount: 4
 Back
 SplineSet
 46 17 m 4
@@ -207,21 +207,21 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-391 0 m 5
- 416 107 l 5
- 384 109 l 5
- 377 84 343 43 301 43 c 5
+391 0 m 1
+ 416 107 l 1
+ 384 109 l 1
+ 377 84 343 43 301 43 c 1
  130.461904762 43 l 1
  380 420 l 1
  125 420 l 2
- 92 420 65 449 65 449 c 1
- 49 450 l 1
+ 92 420 65 449 65 449 c 5
+ 49 450 l 5
  18 336 l 1
  38 334 l 1
  49 352 79 377 105 377 c 1
  267.538095238 377 l 1
  18 0 l 1
- 391 0 l 5
+ 391 0 l 1
 EndSplineSet
 Layer: 2
 SplineSet
