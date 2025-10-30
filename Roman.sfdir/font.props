@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1761741118
-ModificationTime: 1761825792
+ModificationTime: 1761826327
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -51,6 +51,20 @@ WinInfo: 52 13 8
 BeginPrivate: 0
 EndPrivate
 Grid
+-1000 431 m 4
+ 2000 431 l 1028
+-476.834960938 993.791015625 m 0
+ 801.094726562 -144.685546875 l 1024
+  Named: "hor-serif_top-angle"
+-122 533 m 0
+ 520 368 l 1024
+  Named: "vert-serif_top-angle"
+-1000 -10 m 0
+ 2000 -10 l 1024
+  Named: "base_xtra"
+-1000 439 m 0
+ 2000 439 l 1024
+  Named: "x-h_xtra"
 -1000 74.125 m 0
  2000 74.125 l 1024
 -1000 43 m 0
