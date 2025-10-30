@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1761741118
-ModificationTime: 1761827345
+ModificationTime: 1761840283
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -38,6 +38,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+Lookup: 258 0 0 "15" { } []
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
@@ -47,14 +48,18 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 52 13 8
+WinInfo: 39 13 8
 BeginPrivate: 0
 EndPrivate
 Grid
+-1000 89.3785644531 m 0
+ 2000 89.3785644531 l 1024
+-1000 450.227539062 m 0
+ 2000 450.227539062 l 1024
 -1000 431 m 0
  2000 431 l 1024
--514.834960938 879.791015625 m 4
- 763.094726562 -258.685546875 l 1028
+-514.834960938 879.791015625 m 0
+ 763.094726562 -258.685546875 l 1024
   Named: "hor-serif_top-angle"
 -122 533 m 0
  520 368 l 1024
@@ -65,8 +70,6 @@ Grid
 -1000 439 m 0
  2000 439 l 1024
   Named: "x-h_xtra"
--1000 74.125 m 0
- 2000 74.125 l 1024
 -1000 43 m 0
  2000 43 l 1024
 -1000 737 m 0
