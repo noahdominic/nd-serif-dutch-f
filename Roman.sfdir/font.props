@@ -7,10 +7,10 @@ Copyright: Copyright (c) 2025, Noah Dominic with Reserved font name ND Serif Dut
 UComments: "2025-10-29: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
-UnderlinePosition: -100
-UnderlineWidth: 50
+UnderlinePosition: -110
+UnderlineWidth: 54.5217
 Ascent: 800
-Descent: 200
+Descent: 300
 InvalidEm: 0
 LayerCount: 4
 Layer: 0 0 "Back" 1
@@ -24,12 +24,12 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1761741118
-ModificationTime: 1761840283
+ModificationTime: 1761916060
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
 OS2TypoDOffset: 1
-OS2TypoLinegap: 90
+OS2TypoLinegap: 99
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
@@ -48,40 +48,42 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 39 13 8
+WinInfo: 65 13 8
 BeginPrivate: 0
 EndPrivate
 Grid
--1000 89.3785644531 m 0
- 2000 89.3785644531 l 1024
--1000 450.227539062 m 0
- 2000 450.227539062 l 1024
--1000 431 m 0
- 2000 431 l 1024
--514.834960938 879.791015625 m 0
- 763.094726562 -258.685546875 l 1024
+-1100 439.724609375 m 0
+ 2200 439.724609375 l 1024
+-1100 98.31640625 m 0
+ 2200 98.31640625 l 1024
+-1100 495.25 m 0
+ 2200 495.25 l 1024
+-1100 474.099609375 m 0
+ 2200 474.099609375 l 1024
+-566.318359375 967.770507812 m 0
+ 839.404296875 -284.553710938 l 1024
   Named: "hor-serif_top-angle"
--122 533 m 0
- 520 368 l 1024
+-134.200195312 586.299804688 m 0
+ 572 404.799804688 l 1024
   Named: "vert-serif_top-angle"
--1000 -10 m 0
- 2000 -10 l 1024
+-1100 -11 m 0
+ 2200 -11 l 1024
   Named: "base_xtra"
--1000 439 m 0
- 2000 439 l 1024
+-1100 482.900390625 m 0
+ 2200 482.900390625 l 1024
   Named: "x-h_xtra"
--1000 43 m 0
- 2000 43 l 1024
--1000 737 m 0
- 2000 737 l 1024
+-1100 47.2998046875 m 0
+ 2200 47.2998046875 l 1024
+-1100 810.700195312 m 0
+ 2200 810.700195312 l 1024
   Named: "f-h"
--1000 670 m 0
- 2000 670 l 1024
+-1100 737 m 0
+ 2200 737 l 1024
   Named: "X-h"
--1000 38 m 0
- 2000 38 l 1024
--1000 420 m 0
- 2000 420 l 1024
+-1100 41.7998046875 m 0
+ 2200 41.7998046875 l 1024
+-1100 462 m 0
+ 2200 462 l 1024
   Named: "x-h"
 EndSplineSet
 TeXData: 1 0 0 211812 105906 70604 440402 1048576 70604 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
